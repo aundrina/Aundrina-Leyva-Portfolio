@@ -1,0 +1,41 @@
+.personalAchievements-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: flex-start;
+}
+.personalAchievements-header {
+  /* margin: auto; */
+  margin-bottom: 0.7rem;
+  margin-top: 2rem;
+  margin-top: 2rem;
+  font-size: 2rem;
+}
+.personalAchievements-card {
+  background-color: #f7c59f;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px #ff6b35;
+  padding: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 17px;
+  width: 9rem;
+  height: 8rem;
+  margin-bottom: 3rem;
+  margin-top: 1rem;
+}
+.personalAchievements-details {
+  text-align: center;
+  /* margin-top: 0.5rem; */
+  font-family: "Times New Roman", Times, serif;
+}
+
+.personalAchievements-title {
+  font-size: 2rem;
+  font: 800;
+  text-align: center;
+  font-weight: bold;
+  color: aliceblue;
+  text-shadow: 2rem black;
+}

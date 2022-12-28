@@ -1,0 +1,50 @@
+/* Navbar */
+nav {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 3.5rem;
+  background-color: var(--bg-color);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+}
+nav h1 {
+  color: white;
+  text-shadow: 2px 4px 4px 0.5px rgba(46, 91, 173, 0.6);
+}
+
+nav a {
+  color: #fff;
+  font-weight: var(--bolder-font);
+  transition: var(--transition);
+}
+nav a:hover {
+  color: #ffad8f;
+  border: 1px dotted white;
+  border-radius: 2rem;
+  padding: 3px;
+  margin-bottom: 0.5rem;
+  background-color: white;
+}
+
+nav ul {
+  display: flex;
+  gap: 1.9rem;
+}
+
+nav ul li {
+  font-weight: var(--bold-font);
+}
+
+.burger-menu {
+  color: white;
+  font-size: 2rem;
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+  display: none;
+}
+/* Navbar ends */
