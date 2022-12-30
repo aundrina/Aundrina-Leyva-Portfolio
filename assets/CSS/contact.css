@@ -3,13 +3,11 @@
   margin-top: 2rem;
   font-size: 9rem;
 }
-.contact h2 {
-  text-align: center;
-  margin-bottom: var(--bottom-margin-2);
-}
 h2 {
   text-align: center;
+  margin-bottom: 10px;
 }
+
 .contact-form-container {
   max-width: 40.75rem;
   margin: 1rem auto;

@@ -4,9 +4,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 8rem;
+  gap: 5rem;
   max-width: 68.75rem;
-  margin: 5rem;
+  /* margin: 5rem; */
+  margin-bottom: 2rem;
   /* background-color: #d4b9a5; */
 }
 .hero img {
