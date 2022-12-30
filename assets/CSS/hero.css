@@ -4,14 +4,14 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 5rem;
+
   max-width: 68.75rem;
-  margin-top: 2rem;
+  /* margin-top: 2rem; */
   padding: 12px;
   /* background-color: #d4b9a5; */
 }
 .hero img {
-  /* margin-top: 0.5rem; */
+  margin: 1rem;
   height: 22rem;
   width: 20rem;
   border-radius: 100%;
@@ -24,7 +24,7 @@
   border-radius: 6px;
   background-color: #ffad8f;
   box-shadow: 0.5px 0.5px 8px 0.5px #cbc9c8;
-  max-width: 20rem;
+  max-width: 18rem;
 }
 
 .bio p {

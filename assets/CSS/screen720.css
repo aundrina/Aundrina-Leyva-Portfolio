@@ -26,20 +26,6 @@
   .hero {
     flex-direction: column;
   }
-  .hero img {
-    height: 50rem circle;
-    width: 50rem circle;
-    border-radius: 100%;
-  }
-  .bio {
-    margin-top: -4rem;
-    width: 25.5rem;
-  }
-
-  .icon {
-    width: 5.875rem;
-    height: 5.25rem;
-  }
 
   .projects-container {
     flex-direction: column;

@@ -5,29 +5,28 @@
   text-align: center;
 }
 .skill-header {
-  margin: auto;
+  margin-top: 4rem;
   margin-bottom: 1rem;
   font-size: 2rem;
 }
 .skill-wrapper img {
   padding: 1.25rem;
   align-items: center;
-}
-.skill-wrapper {
   margin-bottom: 5rem;
 }
+
 .icon {
   align-items: center;
-  width: 6rem;
-  height: 6rem;
+  width: 5rem;
+  height: 5rem;
 }
 
 .icon-card {
   background-color: #f7c59f;
   border-radius: 11px;
-  box-shadow: 0 3px 10px #ff6b35;
-  padding: 15px;
-  margin: 10px;
+  box-shadow: 0 4px 7px #ff6b35;
+  padding: 13px;
+  margin: 6px;
 }
 
 /* Skills section ends */
