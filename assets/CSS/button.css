@@ -1,0 +1,19 @@
+.resume-button {
+  display: inline-block;
+  /* width: 5rem; */
+  padding: 10px 20px;
+  text-align: center;
+  margin-bottom: auto;
+  border-radius: 20px;
+  color: #ff6b35;
+  background-color: white;
+  box-shadow: 0 2px 9px #ff6b35;
+  border: 3px double #ff6b35df;
+  cursor: pointer;
+}
+.resume-button:hover {
+  color: white;
+  background-color: #f7c59f;
+  box-shadow: 0 1px 8px #f7c59f;
+  border: 3px double white;
+}
