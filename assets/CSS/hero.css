@@ -6,29 +6,28 @@
   justify-content: center;
   gap: 5rem;
   max-width: 68.75rem;
-  /* margin: 5rem; */
+  margin-top: 2rem;
   margin-bottom: 2rem;
+  padding: 12px;
   /* background-color: #d4b9a5; */
 }
 .hero img {
   /* margin-top: 0.5rem; */
   height: 20rem;
   width: 20rem;
-  border-radius: 1rem;
+  border-radius: 100%;
   border: 17px transparent #ffad8f;
   box-shadow: 0.5px 0.5px 8px 0.5px #ffad8f;
   padding: 9px;
 }
 .bio {
-  padding: 3px;
+  /* padding: 3px; */
   border-radius: 6px;
   background-color: #ffad8f;
   box-shadow: 0.5px 0.5px 8px 0.5px #cbc9c8;
+  max-width: 20rem;
 }
-.bio h1 {
-  margin-bottom: var(--bottom-margin);
-  font-weight: bolder;
-}
+
 .bio p {
   line-height: var(--line-height);
   padding: 1rem;
