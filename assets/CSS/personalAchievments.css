@@ -9,8 +9,8 @@
 }
 .personalAchievements-header {
   /* margin: auto; */
-  margin-bottom: 0.7rem;
-  /* margin-top: 1rem; */
+  /* margin-bottom: 0.5rem; */
+  margin-top: 2rem;
   font-size: 2rem;
 }
 .personalAchievements-card {
@@ -24,7 +24,7 @@
   width: 9rem;
   height: 8rem;
   margin-bottom: 0.8rem;
-  margin-top: 1rem;
+  margin-top: 0.3rem;
 }
 .personalAchievements-details {
   text-align: center;
