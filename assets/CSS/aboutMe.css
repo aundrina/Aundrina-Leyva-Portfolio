@@ -3,7 +3,7 @@
   text-align: center;
   font-weight: bold;
   color: #ffad8f;
-  margin-bottom: 0.3rem;
+  margin-bottom: 10px;
 }
 .aboutMe-details {
   border: 17px transparent #ff6b35;
@@ -20,5 +20,5 @@
   margin-right: auto;
 }
 .aboutMe-card {
-  margin: 1px;
+  padding: 13px;
 }
