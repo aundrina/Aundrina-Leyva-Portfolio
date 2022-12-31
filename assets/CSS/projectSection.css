@@ -63,7 +63,7 @@
 
 /* Projects section ends */
 
-a:hover {
+.project-link:hover {
   background-color: white;
   color: #ffad8f;
 }
