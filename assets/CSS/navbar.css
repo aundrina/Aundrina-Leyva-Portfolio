@@ -24,19 +24,25 @@ nav a {
 nav a:hover {
   color: #ffad8f;
   border: 1px dotted white;
-  border-radius: 2rem;
-  padding: 3px;
+  border-radius: 1rem;
+  padding: 5px;
   margin-bottom: 0.5rem;
   background-color: white;
 }
 
 nav ul {
   display: flex;
-  gap: 1.9rem;
+  gap: 1rem;
+  border-radius: 0.5rem;
+  padding: 10px;
+  align-items: center;
 }
 
 nav ul li {
-  font-weight: var(--bold-font);
+  border-radius: 12px;
+  width: fit-content;
+  height: fit-content;
+  /* box-shadow: 0 3px 10px #ff6b35; */
 }
 
 .burger-menu {
