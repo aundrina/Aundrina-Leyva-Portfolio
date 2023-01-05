@@ -43,6 +43,7 @@ nav ul li {
   width: fit-content;
   height: fit-content;
   /* box-shadow: 0 3px 10px #ff6b35; */
+  scroll-margin-top: 6rem;
 }
 
 .burger-menu {
