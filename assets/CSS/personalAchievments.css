@@ -4,6 +4,7 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
   padding: 8px;
+  scroll-margin-top: 8rem;
 }
 .personalAchievements-header {
   /* margin: auto; */
